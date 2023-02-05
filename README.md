@@ -1,5 +1,5 @@
 # 友链
-——————————>YHP友链<——————————
+————————>YHP友链<————————
 <center>
                             <div id="header"></div>
                             <div id="main">
